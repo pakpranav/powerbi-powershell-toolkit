@@ -1,0 +1,12 @@
+{
+  "workspaceId": "00000000-0000-0000-0000-000000000000",
+  "datasetId": "00000000-0000-0000-0000-000000000000",
+  "sourceWorkspaceId": "00000000-0000-0000-0000-000000000000",
+  "targetWorkspaceId": "00000000-0000-0000-0000-000000000000",
+  "rlsRoleAssignments": [
+    { "role": "Marketing", "securityGroup": "SG-PBI-Marketing-Leads" },
+    { "role": "IT", "securityGroup": "SG-PBI-IT-Leads" },
+    { "role": "Finance", "securityGroup": "SG-PBI-Finance-Leads" }
+  ],
+  "logPath": "./logs/run.log"
+}

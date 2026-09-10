@@ -1,0 +1,11 @@
+RequestID,Employee,Department,Course,Vendor,Category,Cost,Status,DateRequested,Quarter
+1001,J. Alvarez,Marketing,HubSpot Inbound Certification,HubSpot Academy,Certification,450,Approved,2026-01-14,Q1
+1002,M. Chen,IT,AWS Solutions Architect Associate,AWS Training,Certification,300,Approved,2026-01-22,Q1
+1003,R. Patel,Finance,Excel Power Query Deep Dive,Coursera,Internal Training,199,Approved,2026-02-03,Q1
+1004,S. Okafor,Marketing,Content Marketing World Conference,CMI,Conference,1250,Pending,2026-02-10,Q1
+1005,T. Nguyen,IT,PSScriptAnalyzer & DevOps Fundamentals,Pluralsight,Internal Training,299,Approved,2026-02-18,Q1
+1006,L. Brooks,Finance,QuickBooks Advanced,Intuit Academy,Certification,175,Approved,2026-03-01,Q1
+1007,J. Alvarez,Marketing,Google Analytics 4 Certification,Google Skillshop,Certification,0,Approved,2026-03-12,Q1
+1008,K. Ramirez,IT,Microsoft Azure Fundamentals,Microsoft Learn,Certification,99,Approved,2026-04-02,Q2
+1009,D. Kim,Finance,Financial Modeling Bootcamp,Wall Street Prep,Internal Training,895,Pending,2026-04-09,Q2
+1010,M. Chen,IT,HashiCorp Terraform Associate,HashiCorp,Certification,70,Approved,2026-04-15,Q2
