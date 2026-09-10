@@ -39,4 +39,4 @@ MIS sits at the intersection of business and tech: the goal isn't just to write 
 
 ## License
 
-MIT — see `LICENSE`. Feel free to adjust if your coursework has different requirements.
+MIT — see `LICENSE`
