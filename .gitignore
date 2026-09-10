@@ -1,0 +1,17 @@
+# Secrets / local config — never commit real values
+config.json
+.env
+*.local.json
+
+# Power BI
+*.pbix.bak
+~$*.pbix
+
+# OS / editor junk
+.DS_Store
+Thumbs.db
+.vscode/
+*.swp
+
+# Logs
+*.log
